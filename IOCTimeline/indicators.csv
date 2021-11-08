@@ -1,0 +1,3 @@
+Type,Value,Confidence,Rating,Tags,Description
+File,ce21319bd21f76ab0f188a514e8ab1fe6f960c257475e45a23d11125d78df428,100,5,Operation TunnelSnake,Moriya Backdoor
+Host,avsvmcloud.com,5,5,Solarwinds,CnC
