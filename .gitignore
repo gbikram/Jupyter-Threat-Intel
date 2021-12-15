@@ -3,3 +3,4 @@
 ReportsEnrichment/msticpyconfig.yaml
 ReportsEnrichment/reports/*
 .DS_Store
+AdversaryOsint/database/*
