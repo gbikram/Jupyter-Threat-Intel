@@ -4,3 +4,6 @@ ReportsEnrichment/msticpyconfig.yaml
 ReportsEnrichment/reports/*
 .DS_Store
 AdversaryOsint/database/*
+IOCTimeline/collected_data/*
+IOCTimeline/indicators.csv
+IOCTimeline/timeline.csv
