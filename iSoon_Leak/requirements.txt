@@ -1,0 +1,4 @@
+nltk
+wordcloud
+ioc-finder
+matplotlib
