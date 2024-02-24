@@ -2,3 +2,6 @@ nltk
 wordcloud
 ioc-finder
 matplotlib
+spacy
+gensim
+pandas
